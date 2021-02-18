@@ -67,20 +67,4 @@ Liens des sources:
 
 
 
-##Deno c’est quoi ?
-*« C’est un nouveau truc pour le script avec un logo de tête de dinosaure. C'est Node écrit à l'envers, pis ça été créé par le même "dude", en plus c'est supposé devenir plus le fun, mais c'est pas mal encore en développement. On n’arrête pas le progrès, surtout en Dev. Web. » :smile: Citation de Julie B.*
 
-Deno est un runtime simple, moderne et sécurisé pour JavaScript et TypeScript qui utilise V8 et est construit en Rust. C’est un nouveau logiciel qui existe depuis 2019. Il a été développé par Ryan Dahl, qui a également crée NodeJS. Il ressemble énormément à NodeJS dans l’utilisation, avec des technologies moins contraignantes. Il est en développement et a pour objectif de devenir un environnement de développement productif et sécurisé en Javascript avec un support natif de Typescript.
-
-Deno est un runtime simple, moderne et sécurisé pour JavaScript et TypeScript qui utilise V8 et est construit en Rust.
-Sécurisé par défaut. Aucun accès aux fichiers, au réseau ou à l'environnement, sauf si explicitement activé.
-Prend en charge TypeScript prêt à l'emploi.
-N'expédie qu'un seul fichier exécutable.
-Possède des utilitaires intégrés comme un inspecteur de dépendances (deno info) et un formateur de code (deno fmt).
-Dispose d'un ensemble de modules standard révisés (audités) qui sont garantis pour fonctionner avec Deno: deno.land/std
-
-Opinions partagées sur ce fameux **Deno** 
-* négatifs 
-* positifs
-
-Je me demande si le dinosaure est un pied de nez justement voulu comme pointe aux "dinosaures du web" qui ne veulent rien changer ?)
